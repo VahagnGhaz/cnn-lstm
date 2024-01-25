@@ -1,0 +1,18 @@
+{
+    "use_pretrained": false,
+    "train_model": true,
+    "use_best_model": true,
+    "num_classes": 10,
+    "epochs": 50,
+    "batch_size": 4,
+    "num_frames": 20,
+    "img_size": [128, 128],
+    "num_workers": 0,
+    "hidden_size": 128,
+    "num_lstm_layers": 2,
+    "device": "cuda",
+    "data_dir": "data",
+    "cache_dir": "cache",
+    "last_weights": "last_weights.pt",
+    "best_weights": "best_weights.pt"
+}
