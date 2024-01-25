@@ -43,4 +43,4 @@ python main.py
 
 You can use the `demo.py` script to see the system in action. Simply modify the labels in the `activity_labels` with your own data and provide an instance like `demo.mpt` (which is me doing jumping jacks, and as you can see, the model correctly predicts it).
 
-For more information about the model training process and additional details, please refer to the `report.pdf`.
+For more information about the model training process and results, please refer to the `report.pdf`.
